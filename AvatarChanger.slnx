@@ -7,5 +7,6 @@
 
 	<Project Path="ArchiSteamFarm/ArchiSteamFarm/ArchiSteamFarm.csproj" />
 
-	<Project Path="MyAwesomePlugin/MyAwesomePlugin.csproj" />
+	<Project Path="AvatarChanger/AvatarChanger.csproj" />
+	<Project Path="AvatarChanger.Tests/AvatarChanger.Tests.csproj" />
 </Solution>
